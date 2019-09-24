@@ -1,0 +1,55 @@
+body{
+	background-image: 
+}
+#form{
+	background-color: #ccc;
+	min-height: 700px;
+	padding: 20px 40px 20px 40px;
+}
+.text{
+	height: 43px;
+}
+label{
+	font-size: 18px;
+}
+.hed{
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+#verify{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.verification{
+	font-size: 28px;
+	font-weight: 600;
+	border-bottom-style: ridge;
+
+}
+.req-asterik{
+	color: red;
+}
+#fom{
+	background-color: #ccc;
+	min-height: :200px;
+}
+.shot{
+	font-size: 15px;
+}
+#opinion{
+    background-color: #D2B4DE;
+	padding: 0px 0px;
+	color: black;
+	
+}
+.optx{
+	width: 20%;
+	float: left;
+	margin-top: 30px;
+}
+.optm{
+	width: 70%;
+	float: left;
+	margin-left: 30px;
+	margin-top: 40px;
+}
